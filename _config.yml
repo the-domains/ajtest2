@@ -2,6 +2,7 @@ name: ajTest2
 favicon: null
 layout_spectrum: 0.9645101132337004
 typography_spectrum: 0.631757372058928
+title: Test2
 cta:
   domain: null
   bucket: null
