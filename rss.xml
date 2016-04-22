@@ -4,8 +4,15 @@
         <description><![CDATA[Test2]]></description>
         <link>https://thegrid.ai/ajtest2/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 07 Mar 2016 16:54:03 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 22 Apr 2016 10:01:29 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/ajtest2/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Frame Box - Lightweight online tool for creating mockups]]></title>
+            <description><![CDATA[<article><h1>Frame Box - Lightweight online tool for creating mockups</h1><p>Lightweight online tool for creating and sharing mockups (wireframes). Easy, fast and free in use.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/7419965e16ac421f816e879899c4d3fa6fc032f2.png"></article>]]></description>
+            <link>http://framebox.org/</link>
+            <guid isPermaLink="false">b5a34119-827c-4863-b54d-76675eeebeb3</guid>
+            <pubDate>Fri, 22 Apr 2016 10:01:10 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Test 2]]></title>
             <description><![CDATA[<article><h1>Test 2</h1><p>What happens if I create a new site?  Is it separate or part of another one?</p></article>]]></description>
